@@ -1,0 +1,24 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+#score,#time{
+	width: 100px;
+	height: 30px;
+	margin: 50px auto;
+	background: yellowgreen;
+	text-align: center;
+    line-height: 30px;
+}
+#game{
+	width: 350px;
+	height: 350px;
+	background: pink;
+	margin: 50px auto;
+}
+#game img{
+	width: 100px;
+	height: 100px;
+	margin-left: 9px;
+	margin-top: 11px;
+}
